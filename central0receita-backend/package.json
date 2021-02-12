@@ -1,0 +1,11 @@
+{
+  "name": "central0receita-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "luciano.tulio",
+  "license": "ISC"
+}
